@@ -151,6 +151,12 @@ git commit -m ":rocket: Adiciona as classes de acesso ao banco de dados
 >Correção do Issue #12"
 ```
 
+## 💡 Como colocar descrição do commit no terminal
+```bash
+git commit -m ":rocket: Adiciona as classes de acesso ao banco de dados" -m "Adiciona o arquivo Connection.php com a classe para acesso
+ao banco de dados MySQL" -m "Correção do Issue #12"
+```
+
 Inspirado no repositório padroes-de-commit de <strong>iuricode</strong><br>
 [Clique aqui](https://github.com/iuricode/padroes-de-commits.git) para acessá-lo.
 
