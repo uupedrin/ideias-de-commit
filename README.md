@@ -1,5 +1,5 @@
 <h1 align="center">
-📄<br>Ideias de commit
+📄<br>Padronizando commits 
 </h1>
 
 <h1 align="center">
@@ -151,6 +151,7 @@ git commit -m ":rocket: Adiciona as classes de acesso ao banco de dados
 >Correção do Issue #12"
 ```
 
-<h3>Inspirado nos repositório <a href src="https://github.com/iuricode/padroes-de-commits">padroes-de-commit</a> de <strong>iuricode</strong></h3>
+Inspirado no repositório padroes-de-commit de <strong>iuricode</strong><br>
+[Clique aqui](https://github.com/iuricode/padroes-de-commits.git) para acessá-lo.
 
-<br>[⬆ Voltar ao top](#ideias-de-commit) <br>
+ <!-- <br>[⬆ Voltar ao top](#ideias-de-commit-) <br> -->
