@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  Utilizar estes commits facilitam o entendimento de onde está se concentrando as horas do projeto e a entrada de novos Devs no projeto. Adotando essa convenção, apesar de gastar um pouco mais tempo no código, ajuda a deixar tudo mais organizado e facil de ser entendido.
+  Utilizar estes commits facilita o entendimento de onde está se concentrando as horas do projeto e a entrada de novos Devs no projeto. Adotando essa convenção, apesar de gastar um pouco mais tempo no código, ajuda a deixar tudo mais organizado e facil de ser entendido.
 </p>
 
 
@@ -134,6 +134,10 @@ git commit -m "Descrição (obrigatório)
       <td>   Nova versão        </td>
       <td> 🎁 <code> :gift: </code>   </td>
    </tr>
+      <tr>
+      <td>   Arquivos de pacote        </td>
+      <td> 📦 <code> :package: </code>   </td>
+    </tr>
     <tr>
       <td>   Mover/Renomear        </td>
       <td> 🚚 <code> :truck: </code>   </td>
